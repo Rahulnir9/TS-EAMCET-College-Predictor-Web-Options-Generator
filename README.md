@@ -1,4 +1,5 @@
 TS-EAMCET-College-Predictor-Web-Options-Generator
+---
 Predict your **top engineering colleges and branches** using your EMCET rank, category, gender, and preferences — all powered by Machine Learning.
  About the Project
 This tool is built to help students make informed decisions during **EMCET counselling** by predicting suitable colleges and branches based on their profile.
